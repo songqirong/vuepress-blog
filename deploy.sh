@@ -11,10 +11,10 @@ set -e
 
 # git init
 git add .
-git commit -m 'deploy'
+git commit -m 'update content'
 
 # 如果发布到 https://<USERNAME>.github.io  填写你刚刚创建的仓库地址
-git remote add origin https://github.com/songqirong/vuepress-blog.git
+# git remote add origin https://github.com/songqirong/vuepress-blog.git
 
 git push -f origin  master:master
 
