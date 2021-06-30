@@ -1,0 +1,12 @@
+node_modules/
+gb-pages/
+dist/
+docs/.vuepress/dist/
+docs/.vuepress/public/images
+.vscode/
+.temp/
+.cache/
+*.exe
+*.cpp
+*.log
+configKey.js
