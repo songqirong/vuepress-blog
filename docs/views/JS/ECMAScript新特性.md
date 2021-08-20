@@ -1,6 +1,6 @@
 ---
-title: '关于 ECMAScrip'
-date: 2020-09-30
+title: 'ECMAScript 新特性'
+date: 2021-08-20
 tags:
 - 'JavaScript基础'
 - '学习笔记'
