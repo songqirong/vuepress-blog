@@ -15,9 +15,9 @@ git commit -m $1
 git push
 
 # 打包
-npm run build
+# npm run build
 
-zip -rm dist.zip dist
+# zip -rm dist.zip dist
 
 # 如果发布到 https://<USERNAME>.github.io  填写你刚刚创建的仓库地址
 # git remote add origin https://github.com/songqirong/vuepress-blog.git
